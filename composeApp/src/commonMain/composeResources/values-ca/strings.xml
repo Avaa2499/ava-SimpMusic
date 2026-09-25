@@ -125,9 +125,6 @@
     <string name="buy_me_a_coffee">Compra'm un cafè</string>
     <string name="developer_blog">Blog del desenvolupador</string>
     <string name="developer_blog_tagline">Llegir notes de desenvolupament, tutorials &amp; continguts entre bastidors</string>
-    <string name="blog_promo_title">Novetats del desenvolupador</string>
-    <string name="blog_promo_message">Acabe de llançar el meu blog personal a maxrave.dev — compartisc la història darrere de SimpMusic, anàlisis a fons sobre tecnologia musical i notes d'enginyeria. Dona-li una ullada si tens curiositat ✨</string>
-    <string name="visit_blog">Visita el blog</string>
     <string name="paypal">PayPal</string>
     <string name="title">Títol</string>
     <string name="custom_order">Ordre personalitzat</string>
@@ -407,11 +404,6 @@
     <string name="shuffle">Mescla</string>
     <string name="other_version">Altra versió</string>
     <string name="later">Més tard</string>
-    <string name="give_a_star">Dona una estrella</string>
-    <string name="enjoying_simpmusic">Està gaudint de SimpMusic?</string>
-    <string name="if_you_enjoy_using_simpmusic_star_simpmusic_on_github_or_leave_a_review_on">Si està gaudint de SimpMusic, doni-li una estrella a GitHub o deixi una ressenya a</string>
-    <string name="if_you_love_my_work_consider">"Si t'agrada el meu treball, considera"</string>
-    <string name="buying_me_a_coffee">invitar-me a un cafè.</string>
     <string name="fade_audio_effect">Efecte d'atenuació de l'àudio</string>
     <string name="disabled">Desactiva</string>
     <string name="fade_audio_effect_duration">Durada de l'efecte d'atenuació de l'àudio</string>

@@ -407,11 +407,6 @@
     <string name="shuffle">پخش تصادفی</string>
     <string name="other_version">نسخه دیگر</string>
     <string name="later">بعدا</string>
-    <string name="give_a_star">ستاره بدید</string>
-    <string name="enjoying_simpmusic">از SimpMusic لذت می‌بری</string>
-    <string name="if_you_enjoy_using_simpmusic_star_simpmusic_on_github_or_leave_a_review_on">اگر از استفاده از SimpMusic لذت می‌برید، به SimpMusic در GitHub ستاره دهید یا نظر خود را درباره آن بنویسید</string>
-    <string name="if_you_love_my_work_consider">"اگر از کار من خوشتان می‌آید، لطفاً "</string>
-    <string name="buying_me_a_coffee">یک قهوه برایم بخرید.</string>
     <string name="fade_audio_effect">افکت محو صدا</string>
     <string name="disabled">غیرفعال</string>
     <string name="fade_audio_effect_duration">مدت زمان محو شدن جلوه صوتی (میلی‌ثانیه) (برای غیرفعال کردن روی ۰ تنظیم کنید)</string>

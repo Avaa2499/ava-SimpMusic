@@ -125,9 +125,6 @@
     <string name="buy_me_a_coffee">Offrimi un caffè</string>
     <string name="developer_blog">Blog degli sviluppatori</string>
     <string name="developer_blog_tagline">Leggi le note degli sviluppatori, i tutorial e i dietro le quinte</string>
-    <string name="blog_promo_title">Novità dagli sviluppatori</string>
-    <string name="blog_promo_message">Ho appena lanciato il mio blog personale, lo trovi su maxrave.dev — troverai la storia dietro SimpMusic, riflessioni su music-tech e note d'ingegneria</string>
-    <string name="visit_blog">Visita il blog</string>
     <string name="paypal">PayPal</string>
     <string name="title">Titolo</string>
     <string name="custom_order">Ordine personalizzato</string>
@@ -453,11 +450,6 @@
     <string name="shuffle">Casuale</string>
     <string name="other_version">Altra versione</string>
     <string name="later">Dopo</string>
-    <string name="give_a_star">Dai una stella</string>
-    <string name="enjoying_simpmusic">Divertiti con SimpMusic</string>
-    <string name="if_you_enjoy_using_simpmusic_star_simpmusic_on_github_or_leave_a_review_on">Se ti piace usare SimpMusic, stella SimpMusic su GitHub o lasciare una recensione su</string>
-    <string name="if_you_love_my_work_consider">"Se ami il mio lavoro, considera"</string>
-    <string name="buying_me_a_coffee">di offrirmi un caffè.</string>
     <string name="fade_audio_effect">Effetto di dissolvenza audio</string>
     <string name="disabled">Disattiva</string>
     <string name="fade_audio_effect_duration">Durata effetto dissolvenza audio (ms) (Imposta a 0 per disattivare)</string>

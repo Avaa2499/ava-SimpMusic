@@ -1,1 +1,1 @@
-A simple music app using YouTube Music for backend
+Stream YouTube Music for free, with lyrics, equalizer and offline caching

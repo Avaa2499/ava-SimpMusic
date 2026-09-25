@@ -124,7 +124,6 @@
     <string name="maxrave_dev">मैक्सरेव-देव</string>
     <string name="buy_me_a_coffee">मुझे एक कॉफी खरीदें</string>
     <string name="developer_blog">डेवलपर ब्लॉग</string>
-    <string name="blog_promo_message">मैंने अभी-अभी अपना व्यक्तिगत ब्लॉग maxrave.dev शुरू किया है — इसमें मैं SimpMusic के पीछे की कहानी, संगीत-तकनीक से जुड़ी गहराई से की गई जानकारियाँ और अपने इंजीनियरिंग से जुड़े अनुभव व नोट्स साझा कर रहा हूँ। अगर आपको ऐसी चीज़ों के बारे में जानना पसंद है, तो एक बार ज़रूर पढ़िए ✨</string>
     <string name="paypal">पेयपाल</string>
     <string name="title">शीर्षक</string>
     <string name="album">एल्बम</string>
@@ -395,11 +394,6 @@
     <string name="shuffle">शफ़ल</string>
     <string name="other_version">अन्य वर्ज़न</string>
     <string name="later">बाद में</string>
-    <string name="give_a_star">एक सितारा दें</string>
-    <string name="enjoying_simpmusic">सिम्पम्यूजिक का आनंद ले रहे हैं</string>
-    <string name="if_you_enjoy_using_simpmusic_star_simpmusic_on_github_or_leave_a_review_on">यदि आपको सिम्पम्यूजिक का उपयोग करना अच्छा लगता है, तो गिटहब पर सिम्पम्यूजिक को स्टार करें या समीक्षा लिखें</string>
-    <string name="if_you_love_my_work_consider">"अगर आपको मेरा काम पसंद आए, तो "</string>
-    <string name="buying_me_a_coffee">मुझे एक कॉफ़ी देकर समर्थन करें।</string>
     <string name="fade_audio_effect">ऑडियो प्रभाव फीका करें</string>
     <string name="disabled">अक्षम करें</string>
     <string name="fade_audio_effect_duration">फीका ऑडियो प्रभाव अवधि (एमएस) (अक्षम करने के लिए 0 पर सेट करें)</string>

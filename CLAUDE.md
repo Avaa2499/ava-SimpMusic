@@ -432,23 +432,6 @@ filled states render identically.
 - `CrossfadeFilterAudioProcessor` for audio processing
 - Edge cases: disabled for video, repeat one, last track
 
-## 🤝 Contributing
-
-### Code of Conduct
-See `CODE_OF_CONDUCT.md`
-
-### Pull Request Guidelines
-1. Fork and create branch from `dev`
-2. Follow coding conventions
-3. Test thoroughly before submitting
-4. Update documentation if needed
-5. PR title: Clear and descriptive
-6. PR description: Explain changes and reasoning
-
-### Translation
-- Use Crowdin: https://crowdin.com/project/simpmusic
-- Don't edit translation files directly
-
 ## 📚 References
 
 ### Inspiration & Credits
@@ -465,11 +448,6 @@ See `CODE_OF_CONDUCT.md`
 - [Ktor Client](https://ktor.io/docs/client.html)
 - [libmpv client API](https://github.com/mpv-player/mpv/blob/master/include/mpv/client.h)
 - [mpv EDL format](https://github.com/mpv-player/mpv/blob/master/DOCS/edl-mpv.rst)
-
-### Community
-- Website: https://simpmusic.org
-- Discord: https://discord.gg/Rq5tWVM9Hg
-- GitHub Issues: Bug reports and feature requests
 
 ---
 

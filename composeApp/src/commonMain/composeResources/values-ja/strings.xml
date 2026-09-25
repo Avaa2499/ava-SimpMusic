@@ -124,8 +124,6 @@
     <string name="maxrave_dev">maxrave-dev</string>
     <string name="buy_me_a_coffee">コーヒーを奢る</string>
     <string name="developer_blog">開発者ブログ</string>
-    <string name="blog_promo_title">開発者からの新着情報</string>
-    <string name="visit_blog">ブログを見る</string>
     <string name="paypal">PayPal</string>
     <string name="title">題名</string>
     <string name="custom_order">カスタム順</string>
@@ -396,11 +394,6 @@
     <string name="shuffle">シャッフル</string>
     <string name="other_version">他のバージョン</string>
     <string name="later">また今度</string>
-    <string name="give_a_star">星マークを押す</string>
-    <string name="enjoying_simpmusic">SimpMusicを楽しんでください</string>
-    <string name="if_you_enjoy_using_simpmusic_star_simpmusic_on_github_or_leave_a_review_on">SimpMusicで楽しんでいたら、GitHubで星マークを押すか、ここにレビューを投稿してください:</string>
-    <string name="if_you_love_my_work_consider">"私のアプリを気に入ったら、"</string>
-    <string name="buying_me_a_coffee">コーヒーを一杯ご馳走してください。</string>
     <string name="fade_audio_effect">フェードの音声エフェクト</string>
     <string name="disabled">無効</string>
     <string name="fade_audio_effect_duration">フェードの音声効果の長さ (ミリ秒) (0で無効)</string>

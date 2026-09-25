@@ -125,9 +125,6 @@
     <string name="buy_me_a_coffee">Belikan Aku secangkir kopi</string>
     <string name="developer_blog">Blog Pengembang</string>
     <string name="developer_blog_tagline">Baca catatan pengembang, tutorial &amp; cerita di balik layar</string>
-    <string name="blog_promo_title">Sesuatu yang baru dari pengembang</string>
-    <string name="blog_promo_message">Saya baru saja meluncurkan blog pribadi saya di maxrave.dev — di sana saya membagikan kisah di balik SimpMusic, ulasan mendalam seputar teknologi musik, dan catatan teknis. Silakan baca jika Anda penasaran ✨</string>
-    <string name="visit_blog">Kunjungi blog</string>
     <string name="paypal">PayPal</string>
     <string name="title">Judul</string>
     <string name="custom_order">Urutan khusus</string>
@@ -422,11 +419,6 @@
     <string name="shuffle">Acak</string>
     <string name="other_version">Versi lainnya</string>
     <string name="later">Nanti</string>
-    <string name="give_a_star">Berikan bintang</string>
-    <string name="enjoying_simpmusic">Menikmati SimpMusic</string>
-    <string name="if_you_enjoy_using_simpmusic_star_simpmusic_on_github_or_leave_a_review_on">Jika Anda menikmati penggunaan SimpMusic, beri bintang pada SimpMusic di GitHub atau tinggalkan ulasan di sana</string>
-    <string name="if_you_love_my_work_consider">"Jika Anda menyukai karya saya, pertimbangkan "</string>
-    <string name="buying_me_a_coffee">membelikanku secangkir kopi.</string>
     <string name="fade_audio_effect">Efek audio memudar</string>
     <string name="disabled">Nonaktifkan</string>
     <string name="fade_audio_effect_duration">Durasi efek audio memudar (mili detik) (Atur ke 0 untuk menonaktifkan)</string>

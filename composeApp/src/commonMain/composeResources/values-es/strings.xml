@@ -125,9 +125,6 @@
     <string name="buy_me_a_coffee">Cómprame un café</string>
     <string name="developer_blog"></string>
     <string name="developer_blog_tagline">Leer notas de desarrollo, tutoriales &amp; detrás de la escena</string>
-    <string name="blog_promo_title">Algo nuevo del desarrollador</string>
-    <string name="blog_promo_message">Acabo de lanzar mi blog personal en maxrave.dev — compartiendo la historia detrás de SimpMusic, inmersiones profundas de tecnología musical y notas de ingeniería. Dale un vistazo si eres curioso ✨</string>
-    <string name="visit_blog">Visita el blog</string>
     <string name="paypal">PayPal</string>
     <string name="title">Título</string>
     <string name="custom_order">Orden personalizado</string>
@@ -447,11 +444,6 @@
     <string name="shuffle">Aleatorio</string>
     <string name="other_version">Otras versiones</string>
     <string name="later">Más tarde</string>
-    <string name="give_a_star">Dar una estrella</string>
-    <string name="enjoying_simpmusic">Disfrutando SimpMusic</string>
-    <string name="if_you_enjoy_using_simpmusic_star_simpmusic_on_github_or_leave_a_review_on">Si te gusta usar SimpMusic, da una estrella a SimpMusic en gituhb o deja una reseña</string>
-    <string name="if_you_love_my_work_consider">"Si amas mi trabajo, considera "</string>
-    <string name="buying_me_a_coffee">comprame un café.</string>
     <string name="fade_audio_effect">Efecto de desvanecimiento de audio</string>
     <string name="disabled">Desactivar</string>
     <string name="fade_audio_effect_duration">Duración del efecto de fundido (ms) (Establecer a 0 para desactivar)</string>

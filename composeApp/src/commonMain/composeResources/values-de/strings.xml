@@ -125,9 +125,6 @@
     <string name="buy_me_a_coffee">Spendiere mir einen Kaffee</string>
     <string name="developer_blog">Entwickler-Blog</string>
     <string name="developer_blog_tagline">Lesen Sie Entwicklernotizen, Tutorials &amp; hinter den Kulissen</string>
-    <string name="blog_promo_title">Neues vom Entwickler</string>
-    <string name="blog_promo_message">Ich habe gerade meinen persönlichen Blog unter maxrave.dev gestartet – dort teile ich die Geschichte hinter SimpMusic, ausführliche Einblicke in die Musiktechnologie und technische Notizen. Schaut doch mal rein, wenn ihr neugierig seid ✨</string>
-    <string name="visit_blog">Blog besuchen</string>
     <string name="paypal">PayPal</string>
     <string name="title">Titel</string>
     <string name="custom_order">Individuelle Reinfolge</string>
@@ -455,11 +452,6 @@
     <string name="shuffle">Zufällig</string>
     <string name="other_version">Andere Version</string>
     <string name="later">später</string>
-    <string name="give_a_star">Gebe einen Stern</string>
-    <string name="enjoying_simpmusic">Spaß an SimpMusic</string>
-    <string name="if_you_enjoy_using_simpmusic_star_simpmusic_on_github_or_leave_a_review_on">Wenn dir SimpMusic gefällt, gib SimpMusic einen Stern auf Github oder lasse eine Rezension da</string>
-    <string name="if_you_love_my_work_consider">"Wenn Dumeine Arbeit liebst, denk darüber nach "</string>
-    <string name="buying_me_a_coffee">Mir einen Kaffee zu kaufen.</string>
     <string name="fade_audio_effect">Fade Audioeffekt</string>
     <string name="disabled">Deaktivieren</string>
     <string name="fade_audio_effect_duration">Fade Audioeffekt Dauer (ms) (auf 0 setzen zum Deaktivieren)</string>

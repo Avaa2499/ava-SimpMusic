@@ -125,9 +125,6 @@
     <string name="buy_me_a_coffee">求贊助QAQ</string>
     <string name="developer_blog">部落格</string>
     <string name="developer_blog_tagline">閱讀開發日誌、教學及幕後花絮</string>
-    <string name="blog_promo_title">來自開發者的最新動態</string>
-    <string name="blog_promo_message">我剛剛上線了個人部落格 maxrave.dev，內容涵蓋 SimpMusic 背後的故事、音樂科技深度解析以及工程技術筆記。如果你有興趣，歡迎去看看 ✨</string>
-    <string name="visit_blog">訪問紀錄</string>
     <string name="paypal">Paypal</string>
     <string name="title">標題</string>
     <string name="custom_order">客製訂單</string>
@@ -416,11 +413,6 @@
     <string name="shuffle">隨機播放</string>
     <string name="other_version">其他版本</string>
     <string name="later">以後再說</string>
-    <string name="give_a_star">給個星吧</string>
-    <string name="enjoying_simpmusic">享受SimpMusic</string>
-    <string name="if_you_enjoy_using_simpmusic_star_simpmusic_on_github_or_leave_a_review_on">如果你享受使用SimpMusic，就在GitHub給個星或者評論吧</string>
-    <string name="if_you_love_my_work_consider">"若你認可我的工作，考慮 "</string>
-    <string name="buying_me_a_coffee">請我喝杯咖啡。</string>
     <string name="fade_audio_effect">淡入/淡出音頻效果</string>
     <string name="disabled">停用</string>
     <string name="fade_audio_effect_duration">音訊淡入淡出效果持續時間（毫秒）（設為 0 表示停用）</string>

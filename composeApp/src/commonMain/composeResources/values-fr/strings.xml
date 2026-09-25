@@ -125,9 +125,6 @@
     <string name="buy_me_a_coffee">Offrez-moi un café ! ☕</string>
     <string name="developer_blog">Blog des Développeurs</string>
     <string name="developer_blog_tagline">Lisez les notes des développeurs, les tutoriels &amp; les coulisses du projet</string>
-    <string name="blog_promo_title">Une nouveauté du développeur</string>
-    <string name="blog_promo_message">Je viens de lancer mon blog personnel sur maxrave.dev — j'y partage l'histoire de SimpMusic, des analyses approfondies sur les technologies musicales et des notes d'ingénierie. N'hésitez pas à y jeter un œil si ça vous intéresse. ✨</string>
-    <string name="visit_blog">Consultez le blog</string>
     <string name="paypal">PayPal</string>
     <string name="title">Titre</string>
     <string name="custom_order">Commande personnalisée</string>
@@ -466,13 +463,6 @@
     <string name="shuffle">Lecture aléatoire</string>
     <string name="other_version">Autre version</string>
     <string name="later">Plus tard</string>
-    <string name="give_a_star">Donner une étoile</string>
-    <string name="enjoying_simpmusic">Vous appréciez SimpMusic</string>
-    <string name="if_you_enjoy_using_simpmusic_star_simpmusic_on_github_or_leave_a_review_on">Si vous aimez utiliser SimpMusic, donnez une étoile à SimpMusic sur GitHub ou laissez un avis sur</string>
-    <string name="if_you_love_my_work_consider">"Si vous aimez mon travail, considérez "</string>
-    <string name="buying_me_a_coffee">m'offrir un café.</string>
-    <string name="footguns_promo_title">Tous les pièges dans lesquels je suis tombé</string>
-    <string name="footguns_promo_message">SimpMusic m'a coûté de nombreuses nuits passées à me débattre avec les pièges de Kotlin et de Compose dont aucune documentation ne m'avait jamais prévenu. Je les ai tous répertoriés dans « kotlin-footguns », pour que vous n'ayez pas à passer les mêmes nuits blanches. Si cela vous en épargne ne serait-ce qu'une seule, une étoile signifierait beaucoup pour moi.</string>
     <string name="fade_audio_effect">Effet de fondu audio</string>
     <string name="disabled">Désactiver</string>
     <string name="fade_audio_effect_duration">Durée de l'effet de fondu audio (ms) (Définir à 0 pour désactiver)</string>

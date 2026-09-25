@@ -125,9 +125,6 @@
     <string name="buy_me_a_coffee">Купите мне кофе</string>
     <string name="developer_blog">Блог разработчика</string>
     <string name="developer_blog_tagline">Читайте заметки разработчика, руководства и информацию о процессе разработки</string>
-    <string name="blog_promo_title">Что-то новое из разработки</string>
-    <string name="blog_promo_message">Я только что запустил свой персональный блог на maxrave.dev — поделитесь историей за SimpMusic, музыкальными погружениями и инженерными заметками. Читайте, если интересно ✨</string>
-    <string name="visit_blog">Посетить блог</string>
     <string name="paypal">PayPal</string>
     <string name="title">Название</string>
     <string name="custom_order">Свой порядок</string>
@@ -452,11 +449,6 @@
     <string name="shuffle">Перемешать</string>
     <string name="other_version">Другие версии</string>
     <string name="later">Позже</string>
-    <string name="give_a_star">Дать звезду</string>
-    <string name="enjoying_simpmusic">Нравится SimpMusic</string>
-    <string name="if_you_enjoy_using_simpmusic_star_simpmusic_on_github_or_leave_a_review_on">Если вам нравится пользоваться SimpMusic, оцените SimpMusic на GitHub или оставьте свой отзыв на</string>
-    <string name="if_you_love_my_work_consider">"Если вам нравится моя работа, рассмотрите "</string>
-    <string name="buying_me_a_coffee">купить мне кофе.</string>
     <string name="fade_audio_effect">Эффект затухания звука</string>
     <string name="disabled">Отключить</string>
     <string name="fade_audio_effect_duration">Продолжительность эффекта затухания звука (мс) (Установите 0 для отключения)</string>
